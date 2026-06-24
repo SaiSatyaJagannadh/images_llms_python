@@ -45,7 +45,7 @@ model = init_chat_model(
 # )
 
 # Read image
-image_path = "images/img_2.png"
+image_path = "images/ingredients.png"
 
 with open(image_path, "rb") as f:
     image_data = base64.b64encode(f.read()).decode("utf-8")
