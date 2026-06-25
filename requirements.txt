@@ -3,3 +3,4 @@ python-dotenv
 langchain-google-genai
 langchain_openai
 gradio
+google-genai
