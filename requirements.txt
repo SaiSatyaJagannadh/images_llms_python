@@ -5,3 +5,7 @@ langchain_openai
 gradio
 google-genai
 pillow
+openai
+sounddevice
+soundfile
+
